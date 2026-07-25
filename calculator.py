@@ -16,3 +16,7 @@ def divide(a, b):
 
 if __name__ == "__main__":
     print("Welcome to Python CLI Calculator!")
+    print("5 + 3 =", add(5, 3))
+    print("10 - 4 =", subtract(10, 4))
+    print("6 * 7 =", multiply(6, 7))
+    print("15 / 3 =", divide(15, 3))
