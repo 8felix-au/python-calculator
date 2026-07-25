@@ -7,3 +7,5 @@ Clone this repository and run the script:
 ```bash
 git clone https://github.com/8felix-au/python-calculator.git
 ```
+
+*Initialized by cyber-dev-66 workspace automation.*
